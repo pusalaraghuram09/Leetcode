@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pusalaraghuram09/Leetcode/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
