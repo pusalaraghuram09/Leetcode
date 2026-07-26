@@ -64,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pusalaraghuram09/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pusalaraghuram09/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
