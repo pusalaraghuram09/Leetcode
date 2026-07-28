@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pusalaraghuram09/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pusalaraghuram09/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Backtracking
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pusalaraghuram09/Leetcode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
