@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/pusalaraghuram09/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/pusalaraghuram09/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/pusalaraghuram09/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0169-majority-element) |
 | [1172-dinner-plate-stacks](https://github.com/pusalaraghuram09/Leetcode/tree/master/1172-dinner-plate-stacks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/pusalaraghuram09/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/pusalaraghuram09/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0164-maximum-gap](https://github.com/pusalaraghuram09/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pusalaraghuram09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0169-majority-element) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/pusalaraghuram09/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/pusalaraghuram09/Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/pusalaraghuram09/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
