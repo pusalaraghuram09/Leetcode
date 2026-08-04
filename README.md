@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/pusalaraghuram09/Leetcode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pusalaraghuram09/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/3731-find-missing-elements) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pusalaraghuram09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pusalaraghuram09/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
