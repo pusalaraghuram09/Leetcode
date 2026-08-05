@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0463-island-perimeter](https://github.com/pusalaraghuram09/Leetcode/tree/master/0463-island-perimeter) |
+| [3310-remove-methods-from-project](https://github.com/pusalaraghuram09/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0463-island-perimeter](https://github.com/pusalaraghuram09/Leetcode/tree/master/0463-island-perimeter) |
+| [3310-remove-methods-from-project](https://github.com/pusalaraghuram09/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pusalaraghuram09/Leetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/pusalaraghuram09/Leetcode/tree/master/0832-flipping-an-image) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/pusalaraghuram09/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
