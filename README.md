@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pusalaraghuram09/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/pusalaraghuram09/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0904-fruit-into-baskets](https://github.com/pusalaraghuram09/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/pusalaraghuram09/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0344-reverse-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/pusalaraghuram09/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/pusalaraghuram09/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/pusalaraghuram09/Leetcode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pusalaraghuram09/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/pusalaraghuram09/Leetcode/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/pusalaraghuram09/Leetcode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
