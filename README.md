@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/pusalaraghuram09/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0171-excel-sheet-column-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/pusalaraghuram09/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/pusalaraghuram09/Leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/pusalaraghuram09/Leetcode/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
