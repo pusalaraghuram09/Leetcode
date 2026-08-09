@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pusalaraghuram09/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pusalaraghuram09/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/pusalaraghuram09/Leetcode/tree/master/0520-detect-capital) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
