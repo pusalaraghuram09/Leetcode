@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/pusalaraghuram09/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/pusalaraghuram09/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/pusalaraghuram09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/pusalaraghuram09/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pusalaraghuram09/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0268-missing-number) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pusalaraghuram09/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/pusalaraghuram09/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pusalaraghuram09/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
