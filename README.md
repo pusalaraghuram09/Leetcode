@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/pusalaraghuram09/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/pusalaraghuram09/Leetcode/tree/master/0134-gas-station) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
@@ -181,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/pusalaraghuram09/Leetcode/tree/master/0190-reverse-bits) |
 ## Counting
@@ -358,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
