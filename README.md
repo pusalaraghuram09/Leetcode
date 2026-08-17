@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/pusalaraghuram09/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/pusalaraghuram09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1172-dinner-plate-stacks](https://github.com/pusalaraghuram09/Leetcode/tree/master/1172-dinner-plate-stacks) |
+| [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/3731-find-missing-elements) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/pusalaraghuram09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/pusalaraghuram09/Leetcode/tree/master/1037-valid-boomerang) |
+| [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0645-set-mismatch](https://github.com/pusalaraghuram09/Leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/3731-find-missing-elements) |
