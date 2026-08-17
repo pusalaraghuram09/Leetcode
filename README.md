@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/pusalaraghuram09/Leetcode/tree/master/1037-valid-boomerang) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/pusalaraghuram09/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/pusalaraghuram09/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1037-valid-boomerang](https://github.com/pusalaraghuram09/Leetcode/tree/master/1037-valid-boomerang) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/pusalaraghuram09/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Game Theory
 |  |
 | ------- |
