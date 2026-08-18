@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/pusalaraghuram09/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pusalaraghuram09/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/pusalaraghuram09/Leetcode/tree/master/0520-detect-capital) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pusalaraghuram09/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/pusalaraghuram09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0877-stone-game) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pusalaraghuram09/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pusalaraghuram09/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/pusalaraghuram09/Leetcode/tree/master/0832-flipping-an-image) |
 ## Graph Theory
 |  |
