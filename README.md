@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pusalaraghuram09/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/pusalaraghuram09/Leetcode/tree/master/0645-set-mismatch) |
+| [0748-shortest-completing-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0904-fruit-into-baskets](https://github.com/pusalaraghuram09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1172-dinner-plate-stacks](https://github.com/pusalaraghuram09/Leetcode/tree/master/1172-dinner-plate-stacks) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pusalaraghuram09/Leetcode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pusalaraghuram09/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0748-shortest-completing-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0832-flipping-an-image](https://github.com/pusalaraghuram09/Leetcode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/pusalaraghuram09/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/pusalaraghuram09/Leetcode/tree/master/0520-detect-capital) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pusalaraghuram09/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0748-shortest-completing-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0831-masking-personal-information](https://github.com/pusalaraghuram09/Leetcode/tree/master/0831-masking-personal-information) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
