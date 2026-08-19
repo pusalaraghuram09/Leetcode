@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pusalaraghuram09/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/pusalaraghuram09/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pusalaraghuram09/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pusalaraghuram09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pusalaraghuram09/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/0344-reverse-string) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/pusalaraghuram09/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pusalaraghuram09/Leetcode/tree/master/0217-contains-duplicate) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/pusalaraghuram09/Leetcode/tree/master/0190-reverse-bits) |
 ## Counting
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pusalaraghuram09/Leetcode/tree/master/1051-height-checker) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
