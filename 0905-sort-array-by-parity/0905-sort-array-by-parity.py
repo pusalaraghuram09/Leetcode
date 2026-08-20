@@ -1,0 +1,20 @@
+class Solution:
+    def sortArrayByParity(self, nums: List[int]) -> List[int]:
+        left = 0
+        right = len(nums) - 1
+
+        while left < right:
+
+            # Find odd number on the left
+            while left < right and nums[left] % 2 == 0:
+                left += 1
+
+            # Find even number on the right
+            while left < right and nums[right] % 2 == 1:
+                right -= 1
+
+            # Swap
+            if left < right:
+                nums[left], nums[right] = nums[right], nums[left]
+
+        return nums
