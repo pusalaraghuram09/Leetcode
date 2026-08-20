@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0027-remove-element) |
+| [0059-spiral-matrix-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pusalaraghuram09/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/pusalaraghuram09/Leetcode/tree/master/0463-island-perimeter) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/pusalaraghuram09/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pusalaraghuram09/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0415-add-strings) |
