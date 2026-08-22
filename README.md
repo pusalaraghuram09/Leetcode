@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pusalaraghuram09/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0831-masking-personal-information](https://github.com/pusalaraghuram09/Leetcode/tree/master/0831-masking-personal-information) |
+| [1154-day-of-the-year](https://github.com/pusalaraghuram09/Leetcode/tree/master/1154-day-of-the-year) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1037-valid-boomerang](https://github.com/pusalaraghuram09/Leetcode/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/pusalaraghuram09/Leetcode/tree/master/1154-day-of-the-year) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/pusalaraghuram09/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
