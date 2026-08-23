@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0519-random-flip-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pusalaraghuram09/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/pusalaraghuram09/Leetcode/tree/master/0645-set-mismatch) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/pusalaraghuram09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0509-fibonacci-number) |
+| [0519-random-flip-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0519-random-flip-matrix) |
 | [0728-self-dividing-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0910-smallest-range-ii) |
@@ -472,4 +474,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0519-random-flip-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0519-random-flip-matrix) |
+## Randomized
+|  |
+| ------- |
+| [0519-random-flip-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0519-random-flip-matrix) |
 <!---LeetCode Topics End-->
