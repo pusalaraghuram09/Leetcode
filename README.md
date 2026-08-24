@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/pusalaraghuram09/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0904-fruit-into-baskets](https://github.com/pusalaraghuram09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/pusalaraghuram09/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pusalaraghuram09/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pusalaraghuram09/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1037-valid-boomerang](https://github.com/pusalaraghuram09/Leetcode/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/1137-n-th-tribonacci-number) |
