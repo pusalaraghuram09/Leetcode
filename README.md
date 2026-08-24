@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pusalaraghuram09/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/pusalaraghuram09/Leetcode/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/pusalaraghuram09/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/0519-random-flip-matrix) |
 | [0728-self-dividing-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/0728-self-dividing-numbers) |
