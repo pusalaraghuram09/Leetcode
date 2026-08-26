@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pusalaraghuram09/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pusalaraghuram09/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/pusalaraghuram09/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0445-add-two-numbers-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/pusalaraghuram09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/pusalaraghuram09/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0509-fibonacci-number) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/pusalaraghuram09/Leetcode/tree/master/0071-simplify-path) |
+| [0445-add-two-numbers-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1172-dinner-plate-stacks](https://github.com/pusalaraghuram09/Leetcode/tree/master/1172-dinner-plate-stacks) |
 ## Matrix
 |  |
