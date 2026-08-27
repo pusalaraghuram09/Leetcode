@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/pusalaraghuram09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/pusalaraghuram09/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0910-smallest-range-ii) |
+| [1025-divisor-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/pusalaraghuram09/Leetcode/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/pusalaraghuram09/Leetcode/tree/master/1154-day-of-the-year) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/pusalaraghuram09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1025-divisor-game) |
 ## DP on Trees
 |  |
 | ------- |
