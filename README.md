@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pusalaraghuram09/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/pusalaraghuram09/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/pusalaraghuram09/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/pusalaraghuram09/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pusalaraghuram09/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/pusalaraghuram09/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/pusalaraghuram09/Leetcode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pusalaraghuram09/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/pusalaraghuram09/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/pusalaraghuram09/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0831-masking-personal-information](https://github.com/pusalaraghuram09/Leetcode/tree/master/0831-masking-personal-information) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pusalaraghuram09/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1002-find-common-characters) |
