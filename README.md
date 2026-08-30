@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/pusalaraghuram09/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0859-buddy-strings) |
 | [0869-reordered-power-of-2](https://github.com/pusalaraghuram09/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pusalaraghuram09/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/pusalaraghuram09/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/pusalaraghuram09/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0831-masking-personal-information](https://github.com/pusalaraghuram09/Leetcode/tree/master/0831-masking-personal-information) |
+| [0859-buddy-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pusalaraghuram09/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1002-find-common-characters) |
 | [1154-day-of-the-year](https://github.com/pusalaraghuram09/Leetcode/tree/master/1154-day-of-the-year) |
