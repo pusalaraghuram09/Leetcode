@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/pusalaraghuram09/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/pusalaraghuram09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [0997-find-the-town-judge](https://github.com/pusalaraghuram09/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0954-array-of-doubled-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/pusalaraghuram09/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1002-find-common-characters) |
 | [1037-valid-boomerang](https://github.com/pusalaraghuram09/Leetcode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/pusalaraghuram09/Leetcode/tree/master/1051-height-checker) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/pusalaraghuram09/Leetcode/tree/master/0997-find-the-town-judge) |
 | [3310-remove-methods-from-project](https://github.com/pusalaraghuram09/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
