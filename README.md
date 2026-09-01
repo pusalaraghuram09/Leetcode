@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/pusalaraghuram09/Leetcode/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/pusalaraghuram09/Leetcode/tree/master/1175-prime-arrangements) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pusalaraghuram09/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/pusalaraghuram09/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
