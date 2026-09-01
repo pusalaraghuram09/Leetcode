@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/pusalaraghuram09/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1002-find-common-characters) |
 | [1037-valid-boomerang](https://github.com/pusalaraghuram09/Leetcode/tree/master/1037-valid-boomerang) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1051-height-checker](https://github.com/pusalaraghuram09/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0954-array-of-doubled-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1051-height-checker](https://github.com/pusalaraghuram09/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pusalaraghuram09/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/pusalaraghuram09/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pusalaraghuram09/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/pusalaraghuram09/Leetcode/tree/master/1037-valid-boomerang) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/pusalaraghuram09/Leetcode/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/pusalaraghuram09/Leetcode/tree/master/1175-prime-arrangements) |
