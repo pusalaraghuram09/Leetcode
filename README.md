@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/pusalaraghuram09/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1797-design-authentication-manager](https://github.com/pusalaraghuram09/Leetcode/tree/master/1797-design-authentication-manager) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/pusalaraghuram09/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/pusalaraghuram09/Leetcode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1797-design-authentication-manager](https://github.com/pusalaraghuram09/Leetcode/tree/master/1797-design-authentication-manager) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1172-dinner-plate-stacks](https://github.com/pusalaraghuram09/Leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1656-design-an-ordered-stream](https://github.com/pusalaraghuram09/Leetcode/tree/master/1656-design-an-ordered-stream) |
+| [1797-design-authentication-manager](https://github.com/pusalaraghuram09/Leetcode/tree/master/1797-design-authentication-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -741,4 +744,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-design-an-ordered-stream](https://github.com/pusalaraghuram09/Leetcode/tree/master/1656-design-an-ordered-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/pusalaraghuram09/Leetcode/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
