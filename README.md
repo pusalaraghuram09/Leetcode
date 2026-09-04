@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/pusalaraghuram09/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pusalaraghuram09/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1656-design-an-ordered-stream](https://github.com/pusalaraghuram09/Leetcode/tree/master/1656-design-an-ordered-stream) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pusalaraghuram09/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pusalaraghuram09/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1656-design-an-ordered-stream](https://github.com/pusalaraghuram09/Leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1710-maximum-units-on-a-truck](https://github.com/pusalaraghuram09/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1172-dinner-plate-stacks](https://github.com/pusalaraghuram09/Leetcode/tree/master/1172-dinner-plate-stacks) |
+| [1656-design-an-ordered-stream](https://github.com/pusalaraghuram09/Leetcode/tree/master/1656-design-an-ordered-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -722,4 +725,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pusalaraghuram09/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/pusalaraghuram09/Leetcode/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
