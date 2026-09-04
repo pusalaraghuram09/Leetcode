@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/pusalaraghuram09/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/pusalaraghuram09/Leetcode/tree/master/1656-design-an-ordered-stream) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/pusalaraghuram09/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/pusalaraghuram09/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/pusalaraghuram09/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/pusalaraghuram09/Leetcode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/pusalaraghuram09/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/pusalaraghuram09/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/pusalaraghuram09/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
