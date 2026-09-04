@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/pusalaraghuram09/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/pusalaraghuram09/Leetcode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1796-second-largest-digit-in-a-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1797-design-authentication-manager](https://github.com/pusalaraghuram09/Leetcode/tree/master/1797-design-authentication-manager) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/pusalaraghuram09/Leetcode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/pusalaraghuram09/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
