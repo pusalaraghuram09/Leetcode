@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1172-dinner-plate-stacks](https://github.com/pusalaraghuram09/Leetcode/tree/master/1172-dinner-plate-stacks) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pusalaraghuram09/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pusalaraghuram09/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pusalaraghuram09/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pusalaraghuram09/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/pusalaraghuram09/Leetcode/tree/master/0832-flipping-an-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pusalaraghuram09/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pusalaraghuram09/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/pusalaraghuram09/Leetcode/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pusalaraghuram09/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/pusalaraghuram09/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
