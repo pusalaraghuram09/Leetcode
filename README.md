@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pusalaraghuram09/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0748-shortest-completing-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/pusalaraghuram09/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/pusalaraghuram09/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/0859-buddy-strings) |
 | [0869-reordered-power-of-2](https://github.com/pusalaraghuram09/Leetcode/tree/master/0869-reordered-power-of-2) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pusalaraghuram09/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pusalaraghuram09/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/pusalaraghuram09/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0809-expressive-words](https://github.com/pusalaraghuram09/Leetcode/tree/master/0809-expressive-words) |
 | [0812-largest-triangle-area](https://github.com/pusalaraghuram09/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0819-most-common-word) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0748-shortest-completing-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/pusalaraghuram09/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/pusalaraghuram09/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0809-expressive-words](https://github.com/pusalaraghuram09/Leetcode/tree/master/0809-expressive-words) |
 | [0819-most-common-word](https://github.com/pusalaraghuram09/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/pusalaraghuram09/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
