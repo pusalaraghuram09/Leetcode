@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/pusalaraghuram09/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pusalaraghuram09/Leetcode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pusalaraghuram09/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pusalaraghuram09/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pusalaraghuram09/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2094-finding-3-digit-even-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pusalaraghuram09/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pusalaraghuram09/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pusalaraghuram09/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/pusalaraghuram09/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2094-finding-3-digit-even-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -659,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/pusalaraghuram09/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0970-powerful-integers](https://github.com/pusalaraghuram09/Leetcode/tree/master/0970-powerful-integers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
