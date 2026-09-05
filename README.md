@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/pusalaraghuram09/Leetcode/tree/master/2201-count-artifacts-that-can-be-extracted) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/pusalaraghuram09/Leetcode/tree/master/2201-count-artifacts-that-can-be-extracted) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/pusalaraghuram09/Leetcode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pusalaraghuram09/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pusalaraghuram09/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/pusalaraghuram09/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/pusalaraghuram09/Leetcode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
