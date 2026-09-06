@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pusalaraghuram09/Leetcode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/pusalaraghuram09/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/pusalaraghuram09/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pusalaraghuram09/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pusalaraghuram09/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pusalaraghuram09/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/pusalaraghuram09/Leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/pusalaraghuram09/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/pusalaraghuram09/Leetcode/tree/master/0455-assign-cookies) |
