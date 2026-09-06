@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pusalaraghuram09/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2352-equal-row-and-column-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/pusalaraghuram09/Leetcode/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2352-equal-row-and-column-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/pusalaraghuram09/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pusalaraghuram09/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/pusalaraghuram09/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2352-equal-row-and-column-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/pusalaraghuram09/Leetcode/tree/master/2201-count-artifacts-that-can-be-extracted) |
+| [2352-equal-row-and-column-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Graph Theory
 |  |
