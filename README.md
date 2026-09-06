@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pusalaraghuram09/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/pusalaraghuram09/Leetcode/tree/master/1399-count-largest-group) |
+| [1436-destination-city](https://github.com/pusalaraghuram09/Leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/pusalaraghuram09/Leetcode/tree/master/1496-path-crossing) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/pusalaraghuram09/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/pusalaraghuram09/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pusalaraghuram09/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/pusalaraghuram09/Leetcode/tree/master/1436-destination-city) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pusalaraghuram09/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/pusalaraghuram09/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/pusalaraghuram09/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1360-number-of-days-between-two-dates](https://github.com/pusalaraghuram09/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pusalaraghuram09/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1436-destination-city](https://github.com/pusalaraghuram09/Leetcode/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pusalaraghuram09/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1496-path-crossing](https://github.com/pusalaraghuram09/Leetcode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
