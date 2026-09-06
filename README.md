@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pusalaraghuram09/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2352-equal-row-and-column-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2374-node-with-highest-edge-score](https://github.com/pusalaraghuram09/Leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/pusalaraghuram09/Leetcode/tree/master/0997-find-the-town-judge) |
+| [2374-node-with-highest-edge-score](https://github.com/pusalaraghuram09/Leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [3310-remove-methods-from-project](https://github.com/pusalaraghuram09/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
