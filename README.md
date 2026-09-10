@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/pusalaraghuram09/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/pusalaraghuram09/Leetcode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1817-finding-the-users-active-minutes](https://github.com/pusalaraghuram09/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
+| [1818-minimum-absolute-sum-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pusalaraghuram09/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1975-maximum-matrix-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pusalaraghuram09/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pusalaraghuram09/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/pusalaraghuram09/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1818-minimum-absolute-sum-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pusalaraghuram09/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pusalaraghuram09/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/pusalaraghuram09/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pusalaraghuram09/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1818-minimum-absolute-sum-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -846,4 +849,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Ordered Set
+|  |
+| ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
