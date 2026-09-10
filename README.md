@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/pusalaraghuram09/Leetcode/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2352-equal-row-and-column-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2561-rearranging-fruits](https://github.com/pusalaraghuram09/Leetcode/tree/master/2561-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pusalaraghuram09/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pusalaraghuram09/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2561-rearranging-fruits](https://github.com/pusalaraghuram09/Leetcode/tree/master/2561-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/pusalaraghuram09/Leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1898-maximum-number-of-removable-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pusalaraghuram09/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2429-minimize-xor](https://github.com/pusalaraghuram09/Leetcode/tree/master/2429-minimize-xor) |
 | [2561-rearranging-fruits](https://github.com/pusalaraghuram09/Leetcode/tree/master/2561-rearranging-fruits) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -824,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/0525-contiguous-array) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pusalaraghuram09/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/pusalaraghuram09/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Rolling Hash
 |  |
 | ------- |
