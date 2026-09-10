@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1002-find-common-characters) |
 | [1154-day-of-the-year](https://github.com/pusalaraghuram09/Leetcode/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/pusalaraghuram09/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pusalaraghuram09/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1436-destination-city](https://github.com/pusalaraghuram09/Leetcode/tree/master/1436-destination-city) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pusalaraghuram09/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pusalaraghuram09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/pusalaraghuram09/Leetcode/tree/master/1399-count-largest-group) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/pusalaraghuram09/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0910-smallest-range-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0954-array-of-doubled-pairs](https://github.com/pusalaraghuram09/Leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/pusalaraghuram09/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/pusalaraghuram09/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/pusalaraghuram09/Leetcode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
