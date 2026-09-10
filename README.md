@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pusalaraghuram09/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pusalaraghuram09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pusalaraghuram09/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2784-check-if-array-is-good](https://github.com/pusalaraghuram09/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pusalaraghuram09/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pusalaraghuram09/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pusalaraghuram09/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/pusalaraghuram09/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/pusalaraghuram09/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/pusalaraghuram09/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/pusalaraghuram09/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
