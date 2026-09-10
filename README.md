@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2429-minimize-xor](https://github.com/pusalaraghuram09/Leetcode/tree/master/2429-minimize-xor) |
 | [2561-rearranging-fruits](https://github.com/pusalaraghuram09/Leetcode/tree/master/2561-rearranging-fruits) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-maximum-split-of-positive-even-integers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/pusalaraghuram09/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
