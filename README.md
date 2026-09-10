@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pusalaraghuram09/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/pusalaraghuram09/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1768-merge-strings-alternately](https://github.com/pusalaraghuram09/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/pusalaraghuram09/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pusalaraghuram09/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/pusalaraghuram09/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/pusalaraghuram09/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/pusalaraghuram09/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-minimize-xor](https://github.com/pusalaraghuram09/Leetcode/tree/master/2429-minimize-xor) |
 | [2561-rearranging-fruits](https://github.com/pusalaraghuram09/Leetcode/tree/master/2561-rearranging-fruits) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/pusalaraghuram09/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/pusalaraghuram09/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusalaraghuram09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
