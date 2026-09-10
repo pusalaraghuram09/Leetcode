@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/pusalaraghuram09/Leetcode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1817-finding-the-users-active-minutes](https://github.com/pusalaraghuram09/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pusalaraghuram09/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/pusalaraghuram09/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pusalaraghuram09/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/pusalaraghuram09/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/pusalaraghuram09/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/pusalaraghuram09/Leetcode/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pusalaraghuram09/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pusalaraghuram09/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/pusalaraghuram09/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pusalaraghuram09/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
